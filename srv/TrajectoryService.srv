@@ -1,0 +1,6 @@
+string trajectoryname
+string lastwaypoint
+---
+bool success
+Waypoint waypoint
+bool endoftrajectory

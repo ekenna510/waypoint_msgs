@@ -66,7 +66,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_service_files(
    FILES
    WaypointListService.srv
-#   Service2.srv
+   TrajectoryService.srv
  )
 
 ## Generate actions in the 'action' folder
